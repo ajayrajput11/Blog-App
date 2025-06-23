@@ -1,7 +1,7 @@
 import { useContext } from "react"
 import { NavLink } from "react-router-dom"
 import { LogInContext } from "./Context"
-import LogOutModal from "./logOutModal"
+import LogOutModal from "./LogOutModal"
 
 
 
