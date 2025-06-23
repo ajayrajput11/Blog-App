@@ -1,7 +1,7 @@
 import React, { useContext,useEffect } from 'react'
 import { LogInContext } from '../Context'
 import { useNavigate } from 'react-router-dom'
-import LogOutModal from '../logOutModal'
+import LogOutModal from '../LogOutModal'
 
 const AdminProfile = () => {
     const navigate = useNavigate()
